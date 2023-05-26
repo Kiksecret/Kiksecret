@@ -1,15 +1,13 @@
 
 ## Hi 👋, I'm Warinphat
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
 ### 🧐  About Me:
 
-- 🔭 &nbsp; I’m currently working on **Application support**
-- 🤝 &nbsp; I’m looking to collaborate on **Data scientist or Machine learning**
-- 🌱 &nbsp; I’m currently learning Machine learning and Data visualization; 
+- 👨🏻‍💻 &nbsp; I’m currently working on **Application support**
+- 🤝 &nbsp; I'm open to collaborations in **Data analytics or machine learning**
+- 🌱 &nbsp; I’m currently learning **Machine learning and Data visualization**
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1cQw4W9mHSVKK78ZTOSvuHmtSVUxoJU9N/view?usp=sharing)
-- 👨🏻‍💻 &nbsp; My [Certifications](https://drive.google.com/drive/folders/1IsS17AemTtWZTXjEZX8Rbh7o5YhgcnFU?usp=sharing)
+- 🗂️ &nbsp; My [Certifications](https://drive.google.com/drive/folders/1IsS17AemTtWZTXjEZX8Rbh7o5YhgcnFU?usp=sharing)
 <br>
 
 ### 🔨 Languages and Tools:
