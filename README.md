@@ -3,10 +3,10 @@
 
 ### 🧐  About Me:
 
-- 👨🏻‍💻 &nbsp; I’m currently working on **Application support**
+- 👨🏻‍💻 &nbsp; I’m currently working on **Data Analyst**
 - 🤝 &nbsp; I'm open to collaborations in **Data analytics or machine learning**
 - 🌱 &nbsp; I’m currently learning **Machine learning and Data visualization**
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1cQw4W9mHSVKK78ZTOSvuHmtSVUxoJU9N/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1UcmdktrIPiLxybjEG6-1y8XCZ29Q0Id2/view?usp=sharing)
 - 🗂️ &nbsp; My [Certifications](https://drive.google.com/drive/folders/1IsS17AemTtWZTXjEZX8Rbh7o5YhgcnFU?usp=sharing)
 <br>
 
