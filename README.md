@@ -3,7 +3,7 @@
 
 ### 🧐  About Me:
 
-- 👨🏻‍💻 &nbsp; I’m currently working on **Data Analyst**
+- 👨🏻‍💻 &nbsp; I’m currently working on **Data Engineer**
 - 🤝 &nbsp; I'm open to collaborations in **Data analytics or machine learning**
 - 🌱 &nbsp; I’m currently learning **Machine learning and Data visualization**
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1UcmdktrIPiLxybjEG6-1y8XCZ29Q0Id2/view?usp=sharing)
