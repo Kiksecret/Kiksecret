@@ -10,10 +10,6 @@
 - 🗂️ &nbsp; My [Certifications](https://drive.google.com/drive/folders/1IsS17AemTtWZTXjEZX8Rbh7o5YhgcnFU?usp=sharing)
 <br>
 
-## Screenshots
-![Sales Overview](images/sales_overview.png)
-![Regional Sales](images/regional_sales.png)
-
 ### 🔨 Languages and Tools:
 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" width="44" height="43" /></a> 
