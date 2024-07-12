@@ -10,6 +10,17 @@
 - 🗂️ &nbsp; My [Certifications](https://drive.google.com/drive/folders/1IsS17AemTtWZTXjEZX8Rbh7o5YhgcnFU?usp=sharing)
 <br>
 
+### 📊 My Projects
+![DITP-News Analytics](https://github.com/Kiksecret/Images-Project/blob/main/DITP-News%20analytics.png)
+![DITP-Market Insight](https://github.com/Kiksecret/Images-Project/blob/main/DITP-Market%20insight.png)
+![DITP-Export](https://github.com/Kiksecret/Images-Project/blob/main/DITP-Export.png)
+![DITP-Forecast](https://github.com/Kiksecret/Images-Project/blob/main/DITP-Forecast.png)
+![DITP-Suggestive](https://github.com/Kiksecret/Images-Project/blob/main/DITP-Suggestive.png)
+![DITP-Potencial](https://github.com/Kiksecret/Images-Project/blob/main/DITP-Potencial.png)
+![Marketing-Overall](https://github.com/Kiksecret/Images-Project/blob/main/Aeon-Overall.png)
+![Marketing-FB](https://github.com/Kiksecret/Images-Project/blob/main/Aeon-FB.png)
+<br>
+
 ### 🔨 Languages and Tools:
 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" width="44" height="43" /></a> 
